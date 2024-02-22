@@ -1,0 +1,15 @@
+### Python ###
+
+# Distribution / packaging
+archive/
+__pycache__/
+.git/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Environments
+env/
+
+# VS Code
+*.vscode
